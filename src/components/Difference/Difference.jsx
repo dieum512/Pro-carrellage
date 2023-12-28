@@ -1,10 +1,8 @@
-import React from 'react'
-import './difference.css'
+import React from 'react';
+import './difference.css';
 
-const Difference = () => {
-  return (
-    <div>Difference</div>
-  )
-}
+const Difference = () => (
+  <div>Difference</div>
+);
 
-export default Difference
+export default Difference;
