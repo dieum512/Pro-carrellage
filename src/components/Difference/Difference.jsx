@@ -1,4 +1,5 @@
 import React from 'react'
+import './difference.css'
 
 const Difference = () => {
   return (
