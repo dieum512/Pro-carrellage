@@ -43,4 +43,13 @@
     font-size: 16px;
     padding: 10px 20px;
     text-transform: uppercase;
+    display: flex;
+    gap: 30px;
+    width: fit-content;
+    align-items: center;
+}
+
+.send {
+    font-size: 25px;
+    padding-top: 5px;
 }
