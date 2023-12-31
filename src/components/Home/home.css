@@ -29,8 +29,8 @@
   padding: 15px 20px;
 }
 
-.info__cont h3 {
-  font-size: 25px;
+.info__cont p {
+  font-size: 20px;
   font-style: italic;
   background: #474747;
   padding: 15px 20px;
@@ -44,7 +44,7 @@
   padding: 10px 20px;
   text-transform: uppercase;
   display: flex;
-  gap: 30px;
+  gap: 15px;
   width: fit-content;
   align-items: center;
 }
