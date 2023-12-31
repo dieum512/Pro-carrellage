@@ -6,6 +6,7 @@ const Difference = () => (
     <div className="diff__cont">
         <h2>
             Qu'est-ce qui nous rend
+            {' '}
             <span>différents ?</span>
         </h2>
         <p>
