@@ -1,0 +1,20 @@
+.diff__cont {
+    padding: 90px 15%;
+}
+
+.diff__cont h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 40px;
+  }
+  
+  .diff__cont h2 span {
+    color: #01967e;
+  }
+
+.diff__cont p {
+    font-size: 18px;
+    text-align: center;
+}
