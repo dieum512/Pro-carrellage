@@ -7,10 +7,10 @@ const Home = () => (
     <div className="home__cont">
       <div className="info__cont">
         <h1>Carrelleur professionel</h1>
-        <h3>
+        <p>
           Des professionnels du carrelage dévoués à embellir votre espace avec précision
           et expertise, pour un intérieur qui respire l&rsquo;élégance et le savoir-faire
-        </h3>
+        </p>
         <a href="#contact">
           <span>Contactez nous</span>
           <span className="send"><VscSend /></span>
