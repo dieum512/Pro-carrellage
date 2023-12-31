@@ -1,1 +1,22 @@
-/* Fix for empty source */
+.about__container {
+    padding: 90px 15%;
+    background: #eff8f5;
+}
+
+.about__container h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.about__container h2 span {
+    color: #01967e;
+}
+
+.about__container p {
+    margin-bottom: 25px;
+    font-size: 18px;
+    text-align: center;
+}
