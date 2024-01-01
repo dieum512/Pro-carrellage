@@ -6,7 +6,8 @@ const About = () => (
     <div className="about__container">
       <h2>
         Qui
-        <span> nous sommes</span>
+        {' '}
+        <span>nous sommes</span>
       </h2>
       <p>
         Une entreprise de construction basé sur le finissage.
